@@ -3,6 +3,8 @@
 
 <h3 align="left">A full stack software developer from Italy 🍝</h3>
 
+I am a software engineer who’s really passionate about technology and arts. I love building things from the ground up, whether it’s working on the back-end logic or fine-tuning the front-end for a great user experience with an artistic attention to details and aesthetic. I’ve dabbled in everything from mobile apps to complex software systems, and I enjoy diving into different new languages, frameworks and technlogies. Curiosity is what keeps me going, and I’m always looking for new challenges that push me to grow as a developer.
+
 - 🔭 I’m currently working on **a datacenter traffic congestion algorithm**
 
 - 🌱 I’m currently learning **how to build 3D websites with ThreeJS**
